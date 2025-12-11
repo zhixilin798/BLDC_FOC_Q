@@ -1,2 +1,2 @@
 # BLDC_FOC_Q
-霍尔FOC，Q格式
+HALL_FOC
